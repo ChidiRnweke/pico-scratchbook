@@ -57,4 +57,4 @@ add_subdirectory(blink)
 add_subdirectory(pwm)
 add_subdirectory(double_pwm)
 add_subdirectory(button_blink)
-
+add_subdirectory(button_buzzer_blink)
